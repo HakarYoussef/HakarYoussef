@@ -12,11 +12,11 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 <br/>
 
-```diff
 
-# - 🌱 I’m currently learning Web3 & Solidity 
 
-```
+#### - 🌱 I’m currently learning Web3 & Solidity 
+
+
 
 <br/>
 
