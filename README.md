@@ -10,6 +10,14 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 🟦 Adobe Photoshop
 🟧 Adobe Illustrator
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 
 - 🌱 I’m currently learning Web3 & Solidity 
 
