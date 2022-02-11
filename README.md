@@ -1,6 +1,8 @@
 # Hakar Youssef
 I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really enjoy learning languages and frameworks like React and React Native, i also enjoy wireframing, ui, ux, and design in general, you can check my dribbble at [ Dribbble ](https://dribbble.com/Hakar)  . 
 
+![Profile views](https://gpvc.arturio.dev/Hakar Youssef)  
+
 ## Skills and Experience
 #### - ⚛️ React
 #### - 💻 HTML, CSS, JS
