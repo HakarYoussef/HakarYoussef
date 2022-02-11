@@ -10,7 +10,6 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 #### - 🟦 Adobe Photoshop
 #### - 🟧 Adobe Illustrator
 
-
 <br/>
 
 ```diff
@@ -19,11 +18,7 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 ```
 
-
 <br/>
-<br/>
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20' >](https://github.com/HakarYoussef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='linkedin' height='20' style="color:grey;"  >](https://www.linkedin.com/in/https://www.linkedin.com/in/hakaryusuf//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'  >](https://twitter.com/https://twitter.com/hakar_yusuf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='20'   >](https://dribbble.com/Hakar)  
 
