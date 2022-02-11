@@ -18,10 +18,4 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakarYoussef)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HakarYoussef&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HakarYoussef)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HakarYoussef)  
-
-![Profile views](https://gpvc.arturio.dev/HakarYoussef)  
+ 
