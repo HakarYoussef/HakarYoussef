@@ -25,5 +25,5 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 [![Twitter: hakar_yusuf](https://img.shields.io/twitter/follow/hakar_yusuf?style=social)](https://twitter.com/hakar_yusuf)
 ![Linkedin: hakaryusuf](https://img.shields.io/badge/-hakaryusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakaryusuf/)
-![Dribbble: Hakar](https://img.shields.io/badge/-Hakar-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.dribbble.com/Hakar/)
+![Dribbble: Hakar](https://img.shields.io/badge/-Hakar-pink?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/Hakar/)
 
