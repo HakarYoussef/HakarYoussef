@@ -52,3 +52,10 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 ![Linkedin: hakaryusuf](https://img.shields.io/badge/-hakaryusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakaryusuf/)
 ![Dribbble: Hakar](https://img.shields.io/badge/-Hakar-pink?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/Hakar/)
 
+<br/>
+
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
