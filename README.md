@@ -1,5 +1,5 @@
 # Hakar Youssef
-I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really enjoy learning languages and frameworks like React and React Native, i also enjoy wireframing, ui, ux, and design in general, you can check my dribbble at https://dribbble.com/Hakar . [I'm an inline-style link](https://www.google.com)
+I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really enjoy learning languages and frameworks like React and React Native, i also enjoy wireframing, ui, ux, and design in general, you can check my dribbble at [Dribbble](https://dribbble.com/Hakar)  . 
 
 ## Skills and Experience
 ⚛️ React
