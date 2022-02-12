@@ -1,7 +1,10 @@
 # Hakar Youssef
 I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really enjoy learning languages and frameworks like React and React Native, i also enjoy wireframing, ui, ux, and design in general, you can check my dribbble at [ Dribbble ](https://dribbble.com/Hakar)  . 
 
-![Profile views](https://gpvc.arturio.dev/HakarYoussef) 
+<br/>
+
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyush-eon&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact)
 
 <br/>
 
@@ -27,6 +30,7 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 <a href="https://www.dribbble.com/Hakar/">
   <img align="left" alt="Hakar's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
+
 <br/>
 
 ## Skills and Experience
@@ -40,11 +44,7 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 <br/>
 
-
-
 #### - 🌱 I’m currently learning Web3 & Solidity 
-
-
 
 <br/>
 
@@ -62,6 +62,9 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<br/>
+
+![Profile views](https://gpvc.arturio.dev/HakarYoussef) 
 
 
 
