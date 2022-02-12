@@ -3,11 +3,7 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 <br/>
 
-![Hakar's github stats](https://github-readme-stats.vercel.app/api?username=HakarYoussef&theme=tokyonight&show_icons=true&hide=["issues"])
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakarYoussef&theme=tokyonight&layout=compact)
 
-<br/>
 
 <a href="https://twitter.com/hakar_yusuf">
 <img align="left" alt="Hakar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -46,6 +42,12 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 <br/>
 
 #### - 🌱 I’m currently learning Web3 & Solidity 
+
+<br/>
+
+![Hakar's github stats](https://github-readme-stats.vercel.app/api?username=HakarYoussef&theme=tokyonight&show_icons=true&hide=["issues"])
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakarYoussef&theme=tokyonight&layout=compact)
 
 <br/>
 
