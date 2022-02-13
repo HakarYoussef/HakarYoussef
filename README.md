@@ -15,16 +15,6 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 <br/>
 
-#### - 🌱 I’m currently learning Web3 & Solidity 
-
-<br/>
-
-![Hakar's github stats](https://github-readme-stats.vercel.app/api?username=HakarYoussef&theme=tokyonight&show_icons=true&hide=["issues"])
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakarYoussef&theme=tokyonight&layout=compact)
-
-<br/>
-
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -32,6 +22,16 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<br/>
+
+#### - 🌱 I’m currently learning Web3 & Solidity 
+
+<br/>
+
+![Hakar's github stats](https://github-readme-stats.vercel.app/api?username=HakarYoussef&theme=tokyonight&show_icons=true&hide=["issues"])
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakarYoussef&theme=tokyonight&layout=compact)
 
 <br/>
 
