@@ -51,11 +51,15 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 <br/>
 
-[![Twitter: hakar_yusuf](https://img.shields.io/twitter/follow/hakar_yusuf?style=social)](https://twitter.com/hakar_yusuf)
-![Linkedin: hakaryusuf](https://img.shields.io/badge/-hakaryusuf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakaryusuf/)
-![Dribbble: Hakar](https://img.shields.io/badge/-Hakar-pink?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/Hakar/)
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hakaryusuf)
+[<img align="left" alt="dribbble" src="https://img.shields.io/badge/dribbble-%2312100E.svg?&style=for-the-badge&logo=dribbble&logoColor=white" />](https://dribbble.com/@goodnesschrisugari)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hakar_yusuf)
 <br/>
+---
+
+
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
