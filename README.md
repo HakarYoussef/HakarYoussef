@@ -5,8 +5,6 @@ I'm Hakar from Kurdistan, and i do content on Design and Deveopment, I really en
 
 
 ## Skills and Experience
-#### - ⚛️ React
-#### - 💻 HTML, CSS, JS
 #### - 🖌️ Figma 
 #### - 🟥 Adobe XD
 #### - 🟪 Adobe After Effects
